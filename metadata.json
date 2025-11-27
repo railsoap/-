@@ -1,0 +1,5 @@
+{
+  "name": "农作物收割策略计算器",
+  "description": "基于概率与资源规划的农作物收割顺序优化工具，帮助玩家计算最大期望收益。",
+  "requestFramePermissions": []
+}
